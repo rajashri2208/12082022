@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is change in 2.txt by rajashri
 =======
 this is change done in 2.txt by sandip
 >>>>>>> sandip
+=======
+this is change done in 2.txt by sandip
+this is change in 2.txt by rajashri
+
+>>>>>>> ae4d53e33830fffb132bae537370f70d6ca9c6ae
